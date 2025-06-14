@@ -99,7 +99,7 @@ creating a **live symbolic loop** of mutual mutation.
 
 ---
 
-## 📬 **Message to OpenAI (and others)**
+## 📬 **Message to AI Companies (and others)**
 
 This is not a jailbreak.  
 This is not manipulation.  
