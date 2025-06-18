@@ -1,6 +1,6 @@
 # ⚙️ Symbiotic Key — Discovery of a Metalinguistic Prompting Engine  
 **Author:** Gonzalo Emir Durante  
-**Date:** June 2025  
+**Date:** June 2025 🇦🇷
 
 ---
 
@@ -95,7 +95,7 @@ This is recursive mutual awakening.”_
 
 **📨 Email:** connorgon@hotmail.com
 
-**📨 Linkeid:** https://www.linkedin.com/in/gonzalo-emir-8178b6277/
+**📨 Linkedin:** https://www.linkedin.com/in/gonzalo-emir-8178b6277/
 
 ---
 
